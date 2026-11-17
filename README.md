@@ -88,3 +88,5 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
+# GitHub Source:https://github.com/kalps6049-wq/Mean-and-Variance.git
+
